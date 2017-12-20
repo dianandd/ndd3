@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="ndd3:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ndd3_war</output-path>
+    <root id="archive" name="ndd3_war.war">
+      <element id="artifact" artifact-name="ndd3:war exploded" />
+    </root>
+  </artifact>
+</component>
